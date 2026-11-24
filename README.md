@@ -48,7 +48,7 @@ Dash - Web framework for the dashboard
 
 HTML/CSS - Dashboard layout and styling
 
-💡Outcomes
+# 💡Outcomes
 Building this taught me a lot about the end-to-end data workflow, from cleaning raw CSVs with Pandas to wiring up a complex Dash callback.
 
 Because the data is spread so evenly and the companies look so alike, it's highly likely this specific Kaggle dataset is simulated. Therefore, the insights here are great for practicing data visualization and monitoring mock performance, but they shouldn't be used to draw real-world conclusions about Amazon, Alibaba, or eBay.
