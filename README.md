@@ -13,7 +13,7 @@ Interactive Filters: Filter the entire dashboard by Company, Year (2010–2020),
 
 📓 Jupyter Notebook
 
-**[View the Data Analysis notebook](#)**
+**[View the Data Analysis notebook](https://github.com/snjcoder/E-commerce-project/blob/main/Ecommerce_Analysis_Project.ipynb)**
 
 # 🔍 Key Analysis
 One of the most interesting things I discovered while building this is that the three companies look surprisingly similar in this dataset.
