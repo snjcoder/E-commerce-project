@@ -9,7 +9,7 @@ The dataset used is "E-Commerce Giants Comparison (2010-2020)", sourced from Kag
 # 📈 Live Interaction Dashboard
 Interactive Filters: Filter the entire dashboard by Company, Year (2010–2020), and Top Region.
 
-**[open the live Dashboard](https://e-commerce-project-ayf4.onrender.com/)**
+**[Open the live Dashboard](https://e-commerce-project-ayf4.onrender.com/)**
 
 📓 Jupyter Notebook
 
