@@ -29,13 +29,12 @@ One of the most interesting things I discovered while building this is that the 
 5. Dynamic KPI Cards: Get instant averages for Sales, Active Users, Market Share, Gross Margin, and Sales per Active User.
 
 6. Interactive Charts:
-
-Average Total Sales by Company
-Annual Sales Trend
-Sales by Top Region
-Market Share vs. Gross Margin
-Order Value vs. Mobile Transactions
-Sales per Active User Trend
+- Average Total Sales by Company
+- Annual Sales Trend
+- Sales by Top Region
+- Market Share vs. Gross Margin
+- Order Value vs. Mobile Transactions
+- Sales per Active User Trend
 
 
 # 🛠️ Technologies
